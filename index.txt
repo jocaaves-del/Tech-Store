@@ -20,7 +20,7 @@
         <section class="produtos">
  
             <div class="card">
-<img src="https://via.placeholder.com/250x180?text=Celular" alt="Celular">
+<img src="celular.jfif" alt="Celular">
 <h3>📱 Celular</h3>
 <p>Smartphone moderno e rápido.</p>
 <p class="preco">R$ 1.999,00</p>
@@ -28,7 +28,7 @@
 </div>
  
             <div class="card">
-<img src="https://via.placeholder.com/250x180?text=Notebook" alt="Notebook">
+<img src="computador.jfif" alt="Notebook">
 <h3>💻 Notebook</h3>
 <p>Notebook potente para estudos e trabalho.</p>
 <p class="preco">R$ 3.499,00</p>
@@ -36,7 +36,7 @@
 </div>
  
             <div class="card">
-<img src="https://via.placeholder.com/250x180?text=Fone" alt="Fone de ouvido">
+<img src="fone.jfif" alt="Fone de ouvido">
 <h3>🎧 Fone de ouvido</h3>
 <p>Som de alta qualidade e conforto.</p>
 <p class="preco">R$ 299,00</p>
